@@ -10,3 +10,5 @@ Go之旅，一个简明靠谱的Go语言教程。
 
 1. [你好，世界！](docs/hello_world.md)
 2. [测试](docs/testing.md)
+
+https://go.dev/blog/strings
